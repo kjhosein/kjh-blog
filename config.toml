@@ -1,0 +1,39 @@
+# Hugo's config file
+
+baseurl = "https://www.khalidjhosein.net/"
+languagecode = "en-US"
+title = "Khalid J Hosein"
+theme = "cocoa-eh-hugo-theme"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Khalid J Hosein"
+disqusshortname = ""
+pluralizelisttitles = false
+
+
+[permalinks]
+  blog = "/:year/:month/:slug/"
+  #blog = "blog/:slug/"
+
+[params]
+dateform = "2 Jan 2006"
+dateformfull = "Mon 2 Jan 2006 15:04:05 MST"
+description = "Example blog"
+copyright = "Copyright © 2019 Khalid J Hosein"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+github = "kjhosein"
+email = "kjh@pobox.com"
+linkedin = "khalidhosein"
+twitter = "kjhosein"
+social_banner = "img/banner.png"
+posts_navigation = true
+small_banner_logo = false
+latestpostcount = 5
