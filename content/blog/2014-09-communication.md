@@ -40,7 +40,7 @@ What follows is my personal take on what the \*spectrum\* of immediacy is and wh
 
 ## Additional Points to Consider
 
-Communication != documentation. In other words, don’t regard a series of IMs or even an email thread as documentation. If it should be documented, put it into your agreed-upon cetnral store of docs (e.g. a wiki, a knowledge base, etc.).
+Communication != documentation. In other words, don’t regard a series of IMs or even an email thread as documentation. If it should be documented, put it into your agreed-upon central store of docs (e.g. a wiki, a knowledge base, etc.).
 
 Email is used in an intrusive, interruptive manner. Ideally, you should only check it a handful of times per day, but corporate cultures everywhere has turned email into an always-on, must-respond-now monster that sucks up time and productivity. Let me repeat: email should not be considered an immediate form of communication. Verbal communication is.
 
