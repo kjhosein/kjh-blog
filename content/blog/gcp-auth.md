@@ -1,6 +1,6 @@
 ---
 title: "Authentication of Users & Apps to Google Cloud for Local Workstation Development"
-date: 2022-08-22T17:45:18-04:00
+date: 2022-02-22T17:45:18-04:00
 draft: false
 ---
 
