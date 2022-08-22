@@ -22,12 +22,11 @@ pluralizelisttitles = false
 dateform = "2 Jan 2006"
 dateformfull = "Mon 2 Jan 2006 15:04:05 MST"
 description = "The blog of Khalid J Hosein"
-copyright = "Copyright © 2019 Khalid J Hosein"
+copyright = "Copyright © 2018-2022 Khalid J Hosein"
 logofile = "img/circuit.png"
 faviconfile = "img/letter-k.png"
 highlightjs = true
 progressively = true
-align_left = false
 lang = "en"
 github = "kjhosein"
 email = "kjh@pobox.com"
@@ -37,6 +36,7 @@ social_banner = "img/banner.png"
 posts_navigation = true
 small_banner_logo = false
 latestpostcount = 5
+usesmallsummarycard = true
 
 [build.processing]
     skip_processing = true
