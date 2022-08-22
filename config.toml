@@ -38,9 +38,5 @@ posts_navigation = true
 small_banner_logo = false
 latestpostcount = 5
 
-[module]
-[[module.imports]]
-
-
 [build.processing]
     skip_processing = true
