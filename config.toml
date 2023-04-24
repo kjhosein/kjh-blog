@@ -37,6 +37,7 @@ posts_navigation = true
 small_banner_logo = false
 latestpostcount = 5
 usesmallsummarycard = true
+exclude_headings = "Detailed Cloud and DevOps Experience report - 2016-"
 
 [build.processing]
     skip_processing = true
