@@ -16,4 +16,4 @@ Along the way, I've written a book with my good buddy, [Doug](https://www.linked
 
 I also founded and ran a gadget blog for many years, also with Doug. We regularly attended [CES](https://www.ces.tech/) and related electronics shows and learned about the sometimes capricious and often wacky world of consumer tech.
 
-PS> if you like what you read here and would like to hire me or just want to chat, [shoot me an email](mailto:kjh%2Bblog@exocloudventures.com?subject=Contact%20via%20Blog).
+PS> if you like what you read here and would like to [hire me](/hire-me) or just want to chat, [shoot me an email](mailto:kjh%2Bblog@exocloudventures.com?subject=Contact%20via%20Blog).
