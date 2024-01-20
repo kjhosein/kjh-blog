@@ -41,3 +41,7 @@ exclude_headings = "Detailed Cloud and DevOps Experience report - 2016-"
 
 [build.processing]
     skip_processing = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-RTJ5LJSVHB'
