@@ -415,12 +415,14 @@ div.main .container .content .post-item .meta {
 div.main .container .content .see-more {
   font-style: italic;
   float: right;
-  font-size: 0.9em;
+  font-size: 1.0em;
   margin-top: 2em;
+  margin-right: 1em;
   color: #313537;
 }
 div.main .container .content .see-more:hover {
-  color: #666;
+  color: #66F;
+  text-decoration: underline;
 }
 section {
   padding: 0 16px;
