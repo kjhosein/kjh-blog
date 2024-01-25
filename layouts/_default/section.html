@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="main column">
+    <div class="container">
+        <div class="content">
+            <div class="posts">
+                <div class="page-heading">{{ .Params.yearTitle }}</div>
+                <ul>
+                    {{ range (where .Site.RegularPages "Section" "blog").GroupByDate "Jan 2006" "desc"}}
+                        <li class="groupby">{{ .Key }}</li>
+                        {{ range sort .Pages "Date" "desc" }}
+                            {{ partial "li.html" . }}
+                        {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{{ partial "footer.html" . }}
