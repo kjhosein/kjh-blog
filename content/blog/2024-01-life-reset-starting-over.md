@@ -1,7 +1,7 @@
 ---
 title: "Forget the Life Reset, Make Mini Changes Instead"
 date: 2024-01-25T19:35:43-05:00
-draft: true
+draft: false
 ---
 
 Ever dreamt of hitting the reset button on life? Instead, you find yourself constantly ruminating on the idea without actually making any progress?
