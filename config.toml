@@ -17,19 +17,20 @@ pluralizelisttitles = false
 [permalinks]
   blog = "/:year/:month/:slug/"
   #blog = "blog/:slug/"
+  #blog/2015 = "/:year/:month/:slug/"  # doesn't work.
 
 [params]
 dateform = "2 Jan 2006"
 dateformfull = "Mon 2 Jan 2006 15:04:05 MST"
 description = "The blog of Khalid J Hosein"
-copyright = "Copyright © 2018-2024 Khalid J Hosein"
+copyright = "Copyright © 2013-2024 Khalid J Hosein"
 logofile = "img/circuit.png"
 faviconfile = "img/letter-k.png"
 highlightjs = true
 progressively = true
 lang = "en"
 github = "kjhosein"
-email = "kjh@pobox.com"
+email = "kjh%2Bblog@exocloudventures.com?subject=Contact%20via%20Blog"
 linkedin = "khalidhosein"
 twitter = "kjhosein"
 social_banner = "img/banner.png"
@@ -37,7 +38,7 @@ posts_navigation = true
 small_banner_logo = false
 latestpostcount = 5
 usesmallsummarycard = true
-exclude_headings = "Detailed Cloud and DevOps Experience report - 2016-"
+exclude_headings = "Detailed Cloud and DevOps Experience report, 2013-"
 
 [build.processing]
     skip_processing = true

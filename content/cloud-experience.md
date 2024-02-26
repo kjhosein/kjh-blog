@@ -1,11 +1,13 @@
 ---
-title: "Detailed Cloud and DevOps Experience report - 2016-"
+title: "Detailed Cloud and DevOps Experience report, 2013-"
 date: 2023-04-01T17:04:33-05:00
 draft: false
 ---
 
-This is a sampling of some of the projects I’ve completed in the past 7 years.  
-Most of the following projects were done for large enterprises, including multiple Fortune 500 companies.
+This is a sampling of some of the projects I’ve completed in the past 10+ years.
+Most of the following projects were done for large enterprises and Fortune 500 companies.
+
+- Designed and built out a startup's application infrastructure in AWS from scratch. This was prior to the days of tools such as Landing Zone, Control Tower, or the rise of Terraform.
 
 - Designed and built a foundational multi-account architecture in AWS using Infrastructure as Code tooling (Terraform), configuration management (Puppet), and automation (scripting in Bash, Python, etc.). This was prior to landing zone or Control Tower solutions being commonly available.
 
