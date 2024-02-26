@@ -7,9 +7,7 @@ draft: false
 This is a sampling of some of the projects I’ve completed in the past 10+ years.
 Most of the following projects were done for large enterprises and Fortune 500 companies.
 
-- Designed and built out a startup's application infrastructure in AWS from scratch. This was prior to the days of tools such as Landing Zone, Control Tower, or the rise of Terraform.
-
-- Designed and built a foundational multi-account architecture in AWS using Infrastructure as Code tooling (Terraform), configuration management (Puppet), and automation (scripting in Bash, Python, etc.). This was prior to landing zone or Control Tower solutions being commonly available.
+- Designed and built a startup's foundational multi-account architecture in AWS using Infrastructure as Code tooling (CloudFormation & Troposphere), configuration management (Puppet), and automation (scripting in Bash, Python, etc.). This was prior to landing zone or Control Tower solutions being commonly available.
 
 - Built automation (in Python) to extract data from Excel spreadsheets and generate Terraform variables files that plugged into Terraform templates that could take an unknown # of elements (i.e. 3 EC2 instances, 2 S3 buckets and 0 RDS databases). This code was built prior to Terraform having looping capabilities.
   Built similar automation targeting a wide set of core native services in both AWS and Azure.
