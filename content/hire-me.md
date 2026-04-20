@@ -1,7 +1,7 @@
 ---
 title: "Hire Me"
-date: 2024-01-17T16:32:08-05:00
-draft: false
+date: 2030-04-30T16:32:08-05:00
+draft: true
 slug: hire-me
 ---
 
