@@ -616,6 +616,9 @@ div.main .content .markdown figure img {
   position: static;
   margin: auto;
 }
+div.main .content .markdown figure.netbank-logo-75 img {
+  width: 75%;
+}
 div.main .content .markdown table {
   margin-bottom: 1rem;
   width: 100%;
