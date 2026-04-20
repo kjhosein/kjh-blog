@@ -1,7 +1,7 @@
 ---
 title: "RIP Net.B@nk"
 date: 2007-10-01T17:35:25-05:00
-draft: true
+draft: false
 ---
 
 {{< figure src="/blog/netbank-logo.gif" alt="NetBank logo" caption="" class="netbank-logo-75" >}}
